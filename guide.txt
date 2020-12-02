@@ -1,4 +1,4 @@
-1. C:\Program Files\InfluxData\influxd.exe -config C:\Users\norbi\Documents\IOTRendszerek\nodeRed\influx-database\influxdb.conf
+1. "C:\Program Files\InfluxData\influxd.exe" -config C:\Users\norbi\Documents\IOTRendszerek\project\influx-database\influxdb.conf
 2. Updload script to esp at  espScript\espmqtt.ino
 3. node nodeRedServer.js
 
